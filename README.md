@@ -1,4 +1,4 @@
-# ROS_Keyboard_Interface
+# ROS Keyboard Interface
 ROS Serial Arduino keyboard interface with arduino controller
 
 In order to write a publisher in which you send a KEY or any command from your keyboard and it will Subscribed in controller and displayed on LCD or on terminal then this code will help you.
